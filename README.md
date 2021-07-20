@@ -17,6 +17,60 @@ I'm a young, energetic and passionate individual who aims to make a difference i
 💬 Ask me about python programming, python for data science and related stuff... <br>
 ⚡ Fun fact: .
 <br>
+
+## Work Experience !!
+
+<table>
+   <tr>
+    <th>Company</th>
+    <th>Title</th>
+    <th>Domain</th>
+    <th>Start Date</th>
+    <th>End Date</th>
+  </tr>  
+  <tr>
+    <td>Infosys Limited</td>
+    <td>Systems Engineer</td>
+    <td>ETA AI|DS|ML Track</td>
+    <td>Dec-2020</td>
+    <td>Present</td>
+  </tr>
+  <tr>
+    <td>YouTube C Tathva</td>
+    <td>Content Creator</td>
+    <td>Technology Domain</td>
+    <td>Jan-2020</td>
+    <td>Present</td>
+  </tr>
+  <tr>
+    <td>Infosys Limited</td>
+    <td>Internship</td>
+    <td>Programming Foundation Program</td>
+    <td>Feb-2020</td>
+    <td>Mar-2020</td>
+  </tr>
+  <tr>
+    <td>ADAMOS Information Technologies and Services</td>
+    <td>Internship</td>
+    <td>Web Technologies and IOT</td>
+    <td>July-2019</td>
+    <td>July-2019</td>
+  </tr>
+  <tr>
+    <td>LenYog Soft Solutions</td>
+    <td>Internship</td>
+    <td>Web Technologies</td>
+    <td>July-2019</td>
+    <td>July-2019</td>
+  </tr>
+</table>
+
+Infosys Limited - Systems Engineer - ETA AI|DS|ML Track  ( Dec - 2020 to Present) <br>
+YouTube C Tathva - Content Creator - Technology Domain ( Jan - 2020 to Present)<br>
+Infosys Limited - Internship - Programming Foundation Program ( Feb - 2020 to Mar - 2020)<br>
+ADAMOS Information Technologies and Services - Internship - Web Technologies and IOT ( July - 2019 to July - 2019)<br>
+LenYog Soft Solutions - Internship - Web Technologies ( July - 2019 to July - 2019)<br>
+
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
