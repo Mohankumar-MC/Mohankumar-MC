@@ -13,7 +13,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
                     - <a href="https://twitter.com/Mohankumarmc498">Twitter</a>
                     - <a href="https://www.instagram.com/rvishalmohan/">Instagram</a>
                     - <a href="https://www.youtube.com/channel/UCLHDs5zI_SCykBa6Fv-Os2g">YouTube</a>
-                    - <a href="mailto:mohan.mc.98@gmail.com">Google</a> <br>
+                     <br>
 💬 Ask me about python programming, python for data science and related stuff... <br>
 ⚡ Fun fact: .
 <br>
