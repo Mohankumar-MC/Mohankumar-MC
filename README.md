@@ -31,7 +31,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
   <tr>
     <td>Infosys Limited</td>
     <td>Systems Engineer</td>
-    <td>ETA AI|DS|ML Track</td>
+    <td>ETA AI | DS | ML Track</td>
     <td>Dec-2020</td>
     <td>Present</td>
   </tr>
@@ -50,7 +50,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
     <td>Mar-2020</td>
   </tr>
   <tr>
-    <td>ADAMOS Information Technologies and Services</td>
+    <td>ADAMOS Technologies</td>
     <td>Internship</td>
     <td>Web Technologies and IOT</td>
     <td>July-2019</td>
@@ -64,12 +64,6 @@ I'm a young, energetic and passionate individual who aims to make a difference i
     <td>July-2019</td>
   </tr>
 </table>
-
-Infosys Limited - Systems Engineer - ETA AI|DS|ML Track  ( Dec - 2020 to Present) <br>
-YouTube C Tathva - Content Creator - Technology Domain ( Jan - 2020 to Present)<br>
-Infosys Limited - Internship - Programming Foundation Program ( Feb - 2020 to Mar - 2020)<br>
-ADAMOS Information Technologies and Services - Internship - Web Technologies and IOT ( July - 2019 to July - 2019)<br>
-LenYog Soft Solutions - Internship - Web Technologies ( July - 2019 to July - 2019)<br>
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
