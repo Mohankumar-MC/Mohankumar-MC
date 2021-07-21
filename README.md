@@ -15,7 +15,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
                     - <a href="https://www.youtube.com/channel/UCLHDs5zI_SCykBa6Fv-Os2g">YouTube</a>
                      <br>
 💬 Ask me about python programming, python for data science and related stuff... <br>
-⚡ Fun fact: .
+⚡ Fun fact: There are about 700 programming languages, including esoteric coding languages. Some sources that only list notable languages still count up to an impressive 245 languages
 <br>
 
 ## Work Experience !!
