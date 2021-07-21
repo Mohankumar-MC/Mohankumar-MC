@@ -36,7 +36,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
     <td>Present</td>
   </tr>
   <tr>
-    <td>YouTube C Tathva</td>
+    <td>YouTube - C Tathva</td>
     <td>Content Creator</td>
     <td>Technology Domain</td>
     <td>Jan-2020</td>
