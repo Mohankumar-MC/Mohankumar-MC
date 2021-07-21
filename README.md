@@ -9,9 +9,9 @@ I'm a young, energetic and passionate individual who aims to make a difference i
 👀 I’m interested in Artificial Intelligence. <br>
 🥅 2022 Goals: Contribute more to Open Source projects. <br>
 🤔 I’m looking for help from Data Scientist. <br>
-📫 How to reach me - <a href="https://www.linkedin.com/in/mohankumar-m-c-47621a150/">linked in</a>
+📫 How to reach me - <a href="https://www.instagram.com/rvishalmohan/">Instagram</a>
+                    - <a href="https://www.linkedin.com/in/mohankumar-m-c-47621a150/">linked in</a>
                     - <a href="https://twitter.com/Mohankumarmc498">Twitter</a>
-                    - <a href="https://www.instagram.com/rvishalmohan/">Instagram</a>
                     - <a href="https://www.youtube.com/channel/UCLHDs5zI_SCykBa6Fv-Os2g">YouTube</a>
                      <br>
 💬 Ask me about python programming, python for data science and related stuff... <br>
