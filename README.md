@@ -92,7 +92,7 @@ I'm a young, energetic and passionate individual who aims to make a difference i
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Web Technologies Lab Programs | VTU | CBCS | 2017 Scheme](https://www.youtube.com/playlist?list=PL9h4mXP3d6l9DjTJFQFFm3ylux7GIXF9A)
+- [Web Technologies Laboratory Programs | VTU | CBCS | 2017 Scheme](https://www.youtube.com/playlist?list=PL9h4mXP3d6l9DjTJFQFFm3ylux7GIXF9A)
 - [Programming in C and Data Structures Laboratory Programs | VTU | 2018 Scheme | Complete Tutorial](https://www.youtube.com/playlist?list=PL9h4mXP3d6l_2gSjeYXLTOYGyXLzuyR4c)
 - [Assist Buddy | Placement Prep | C Program for Placements](https://www.youtube.com/playlist?list=PL9h4mXP3d6l9BgJJioffvZJWCjP0dGXj5)
 
