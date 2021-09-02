@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohankumar 👋
 
-I'm a young, energetic and passionate individual who aims to make a difference in the industry with my knowledge and skills. I love to learn, teach, explore and master new domains. I'm highly interested in the field of Data Science and it's application in the field of business.
+I'm a young, energetic and passionate individual who aims to make a difference in the industry with my knowledge and skills. I love to learn, teach, explore and master new domains. I'm highly interested in the field of Compute Science and it's application in the field of Artificial Intelligence.
 
 ## I'm a Developer !!
 
