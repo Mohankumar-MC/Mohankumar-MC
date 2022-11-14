@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohankumar 👋
 
-I'm a young, energetic and passionate individual who aims to make a difference in the industry with my knowledge and skills. I love to learn, teach, explore and master new domains. I'm highly interested in the field of Compute Science and it's application in the field of Artificial Intelligence and Business Development.
+Business analyst with an in-depth understanding of portfolio asset management tools and aptitude for producing beneficial results. Flexible product and business health assessor with experience in optimizing solutions for changing market conditions. Organized and dependable candidate successful at managing multiple priorities with a positive attitude..
 
 ## I'm a Developer !!
 
