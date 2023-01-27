@@ -4,7 +4,6 @@ Business analyst with an in-depth understanding of portfolio asset management to
 
 ## I'm a Developer !!
 
-🔭 I’m currently working as Systems Engineer at Infosys Limited. 🤣 <br>
 🌱 I’m currently learning Data Science. <br>
 👀 I’m interested in Artificial Intelligence. <br>
 🥅 2022 Goals: Contribute more to Open Source projects. <br>
