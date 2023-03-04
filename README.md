@@ -6,7 +6,7 @@ Business analyst with an in-depth understanding of portfolio asset management to
 
 🌱 I’m currently learning Data Science. <br>
 👀 I’m interested in Artificial Intelligence. <br>
-🥅 2022 Goals: Contribute more to Open Source projects. <br>
+🥅 2025 Goals: Contribute more to Open Source projects. <br>
 🤔 I’m looking for help from Data Scientist. <br>
 📫 How to reach me - <a href="https://www.instagram.com/rvishalmohan/">Instagram</a>
                     - <a href="https://www.linkedin.com/in/mohankumar-m-c-47621a150/">linked in</a>
