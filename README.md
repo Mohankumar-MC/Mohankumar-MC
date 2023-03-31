@@ -2,7 +2,7 @@
 
 I am a practitioner of machine learning, and my focus is on developing algorithms and models for use in automated decision making and predictive analytics. I have extensive experience developing solutions for difficult business challenges using my knowledge of machine learning frameworks, programming languages, and data visualization tools. With what I've learned, I want to aid businesses in taking use of AI and ML to fuel expansion and innovation...
 
-## I'm a Developer !!
+## I'm a ______________________!!
 
 🌱 I’m currently learning Data Science. <br>
 👀 I’m interested in Artificial Intelligence. <br>
