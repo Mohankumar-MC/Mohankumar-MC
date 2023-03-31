@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohankumar 👋
 
-Business analyst with an in-depth understanding of portfolio asset management tools and aptitude for producing beneficial results. Flexible product and business health assessor with experience in optimizing solutions for changing market conditions. Organized and dependable candidate successful at managing multiple priorities with a positive attitude..
+I am a practitioner of machine learning, and my focus is on developing algorithms and models for use in automated decision making and predictive analytics. I have extensive experience developing solutions for difficult business challenges using my knowledge of machine learning frameworks, programming languages, and data visualization tools. With what I've learned, I want to aid businesses in taking use of AI and ML to fuel expansion and innovation...
 
 ## I'm a Developer !!
 
