@@ -18,12 +18,12 @@ Graduate with a strong background in business and big data analytics who thinks 
 
 # Education !! <br>
 
-MSc in Business Analytics and Big Data (Merit) : 2022 – 2023 <br>
 ## University of Liverpool, United Kingdom <br>
+MSc in Business Analytics and Big Data (Merit) : 2022 – 2023 <br>
 Modules:  Data Mining and Machine Learning, Big Data Management, Digital Business Technology, Big Data Analytics for Business, Digital Strategy, Enterprise Systems using SAP, Project and Portfolio Management, and Sustainable Supply Chain Management. <br>
 
-Bachelor of Computer Science and Engineering (First-Class): 2016 – 2020 <br>
 ## Visvesvaraya Technological University, India<br>
+Bachelor of Computer Science and Engineering (First-Class): 2016 – 2020 <br>
 Modules: Mathematics, Python, Web Development Technologies, Cloud Computing, Artificial Intelligence and Machine Learning, Object Oriented Programming, Big Data, Database Management Systems, Computer Networks. <br>
 
 
