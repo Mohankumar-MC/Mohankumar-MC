@@ -1,12 +1,11 @@
 ### Hi there, I'm Mohankumar 👋
 
-I am a practitioner of machine learning, and my focus is on developing algorithms and models for use in automated decision making and predictive analytics. I have extensive experience developing solutions for difficult business challenges using my knowledge of machine learning frameworks, programming languages, and data visualization tools. With what I've learned, I want to aid businesses in taking use of AI and ML to fuel expansion and innovation...
+Graduate with a strong background in business and big data analytics who thinks strategically. Has experience using Python, SQL, Excel, and Tableau to improve business and give strategic insights. Proven skills in working as a team, paying attention to details, being flexible, working with people from different cultures, and carefully engaging stakeholders. Skilled at breaking down complicated ideas into insights that are easy to understand and use. I want to use a mix of technical skills, business sense, and strategic analysis to solve complex business problems in a fast-paced role.
 
 ## I'm a ______________________!!
 
 🌱 I’m currently learning Data Science. <br>
 👀 I’m interested in Artificial Intelligence. <br>
-🥅 2025 Goals: Contribute more to Open Source projects. <br>
 🤔 I’m looking for help from Data Scientist. <br>
 📫 How to reach me - <a href="https://www.instagram.com/rvishalmohan/">Instagram</a>
                     - <a href="https://www.linkedin.com/in/mohankumar-m-c-47621a150/">linked in</a>
@@ -17,52 +16,16 @@ I am a practitioner of machine learning, and my focus is on developing algorithm
 ⚡ Fun fact: There are about 700 programming languages, including esoteric coding languages. Some sources that only list notable languages still count up to an impressive 245 languages
 <br>
 
-## Work Experience !!
+## Education !! <br>
 
-<table>
-   <tr>
-    <th>Company</th>
-    <th>Title</th>
-    <th>Domain</th>
-    <th>Start Date</th>
-    <th>End Date</th>
-  </tr>  
-  <tr>
-    <td>Infosys Limited</td>
-    <td>Systems Engineer</td>
-    <td>ETA AI | DS | ML Track</td>
-    <td>Dec-2020</td>
-    <td>Present</td>
-  </tr>
-  <tr>
-    <td>YouTube - C Tathva</td>
-    <td>Content Creator</td>
-    <td>Technology Domain</td>
-    <td>Jan-2020</td>
-    <td>Present</td>
-  </tr>
-  <tr>
-    <td>Infosys Limited</td>
-    <td>Internship</td>
-    <td>Programming Foundation Program</td>
-    <td>Feb-2020</td>
-    <td>Mar-2020</td>
-  </tr>
-  <tr>
-    <td>ADAMOS Technologies</td>
-    <td>Internship</td>
-    <td>Web Technologies and IOT</td>
-    <td>July-2019</td>
-    <td>July-2019</td>
-  </tr>
-  <tr>
-    <td>LenYog Soft Solutions</td>
-    <td>Internship</td>
-    <td>Web Technologies</td>
-    <td>July-2019</td>
-    <td>July-2019</td>
-  </tr>
-</table>
+MSc in Business Analytics and Big Data (Merit) : 2022 – 2023 <br>
+University of Liverpool, United Kingdom <br>
+Modules:  Data Mining and Machine Learning, Big Data Management, Digital Business Technology, Big Data Analytics for Business, Digital Strategy, Enterprise Systems using SAP, Project and Portfolio Management, and Sustainable Supply Chain Management. <br>
+
+Bachelor of Computer Science and Engineering (First-Class): 2016 – 2020 <br>
+Visvesvaraya Technological University, India<br>
+Modules: Mathematics, Python, Web Development Technologies, Cloud Computing, Artificial Intelligence and Machine Learning, Object Oriented Programming, Big Data, Database Management Systems, Computer Networks. <br>
+
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
