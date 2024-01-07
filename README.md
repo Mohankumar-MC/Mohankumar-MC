@@ -1,4 +1,4 @@
-### Hi there, I'm Mohankumar 👋
+# Hi there, I'm Mohankumar 👋
 
 Graduate with a strong background in business and big data analytics who thinks strategically. Has experience using Python, SQL, Excel, and Tableau to improve business and give strategic insights. Proven skills in working as a team, paying attention to details, being flexible, working with people from different cultures, and carefully engaging stakeholders. Skilled at breaking down complicated ideas into insights that are easy to understand and use. I want to use a mix of technical skills, business sense, and strategic analysis to solve complex business problems in a fast-paced role.
 
@@ -16,14 +16,14 @@ Graduate with a strong background in business and big data analytics who thinks 
 ⚡ Fun fact: There are about 700 programming languages, including esoteric coding languages. Some sources that only list notable languages still count up to an impressive 245 languages
 <br>
 
-## Education !! <br>
+# Education !! <br>
 
 MSc in Business Analytics and Big Data (Merit) : 2022 – 2023 <br>
-# University of Liverpool, United Kingdom <br>
+## University of Liverpool, United Kingdom <br>
 Modules:  Data Mining and Machine Learning, Big Data Management, Digital Business Technology, Big Data Analytics for Business, Digital Strategy, Enterprise Systems using SAP, Project and Portfolio Management, and Sustainable Supply Chain Management. <br>
 
 Bachelor of Computer Science and Engineering (First-Class): 2016 – 2020 <br>
-# Visvesvaraya Technological University, India<br>
+## Visvesvaraya Technological University, India<br>
 Modules: Mathematics, Python, Web Development Technologies, Cloud Computing, Artificial Intelligence and Machine Learning, Object Oriented Programming, Big Data, Database Management Systems, Computer Networks. <br>
 
 
